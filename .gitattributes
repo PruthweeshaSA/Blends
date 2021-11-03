@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Project/BlankProject0/Content/Weapon_Pack/Map/Weapons_Kit_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Project/BlankProject0/Content/Weapons_Kit_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Project/BlankProject0/GameBlankProject/WindowsNoEditor/BlankProject0/Content/Paks/BlankProject0-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+Project/BlankProject0/Saved/StagedBuilds/WindowsNoEditor/BlankProject0/Content/Paks/BlankProject0-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
