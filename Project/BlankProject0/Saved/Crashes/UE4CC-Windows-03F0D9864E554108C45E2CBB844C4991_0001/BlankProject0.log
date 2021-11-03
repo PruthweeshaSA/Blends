@@ -1,0 +1,1041 @@
+﻿Log file open, 01/17/21 10:50:52
+LogInit: Display: Running engine for game: BlankProject0
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.213700
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Engine.ini]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Engine.ini]
+[2021.01.17-05.20.52:537][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Engine.ini]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Engine.ini]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.17-05.20.52:537][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Engine.ini]
+[2021.01.17-05.20.52:537][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Engine.ini]
+[2021.01.17-05.20.52:541][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:541][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.17-05.20.52:541][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.17-05.20.52:542][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:542][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.17-05.20.52:543][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.17-05.20.52:543][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.17-05.20.52:543][  0]LogHAL: Display: Platform has ~ 8 GB [8469164032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.17-05.20.52:543][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.17-05.20.52:543][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.17-05.20.52:543][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Scalability.ini]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.17-05.20.52:544][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.17-05.20.52:545][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.17-05.20.52:545][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.17-05.20.52:545][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.17-05.20.52:545][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.17-05.20.52:545][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Config/Windows/Engine.ini]
+[2021.01.17-05.20.52:545][  0]LogInit: Computer: ROG
+[2021.01.17-05.20.52:545][  0]LogInit: User: PruthweeshaSA
+[2021.01.17-05.20.52:545][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.17-05.20.52:545][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.17-05.20.52:545][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.01.17-05.20.52:545][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.17-05.20.52:545][  0]LogMemory: Process Physical Memory: 115.29 MB used, 115.29 MB peak
+[2021.01.17-05.20.52:545][  0]LogMemory: Process Virtual Memory: 110.45 MB used, 110.45 MB peak
+[2021.01.17-05.20.52:545][  0]LogMemory: Physical Memory: 5062.24 MB used,  3014.58 MB free, 8076.82 MB total
+[2021.01.17-05.20.52:545][  0]LogMemory: Virtual Memory: 5157.32 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2021.01.17-05.20.52:601][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.17-05.20.52:655][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.17-05.20.52:656][  0]LogInit: Overriding language with editor language configuration option (en-IN).
+[2021.01.17-05.20.52:656][  0]LogInit: Overriding locale with editor locale configuration option (en-IN).
+[2021.01.17-05.20.52:657][  0]LogTextLocalizationManager: No specific localization for 'en-IN' exists, so the 'en' localization will be used.
+[2021.01.17-05.20.52:760][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.17-05.20.52:801][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.17-05.20.52:801][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.17-05.20.52:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.17-05.20.52:976][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.17-05.20.52:976][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.17-05.20.52:976][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.17-05.20.53:074][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.01.17-05.20.53:074][  0]LogD3D11RHI:       4021/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.01.17-05.20.53:097][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.01.17-05.20.53:097][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.17-05.20.53:101][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.17-05.20.53:101][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.17-05.20.53:101][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.17-05.20.53:113][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.17-05.20.53:113][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2021.01.17-05.20.53:113][  0]LogWindows: EnumDisplayDevices:
+[2021.01.17-05.20.53:113][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.01.17-05.20.53:114][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.01.17-05.20.53:115][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.01.17-05.20.53:116][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.01.17-05.20.53:116][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.01.17-05.20.53:116][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.01.17-05.20.53:116][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.01.17-05.20.53:116][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2021.01.17-05.20.53:181][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.17-05.20.53:181][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.17-05.20.53:181][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.17-05.20.53:236][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.17-05.20.53:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.17-05.20.53:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.17-05.20.53:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.17-05.20.53:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.17-05.20.53:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.17-05.20.53:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.17-05.20.53:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.17-05.20.53:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.17-05.20.53:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.17-05.20.53:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.17-05.20.53:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.17-05.20.53:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.17-05.20.53:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.17-05.20.53:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.17-05.20.53:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.17-05.20.53:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.17-05.20.53:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.17-05.20.53:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.17-05.20.53:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.17-05.20.53:887][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.17-05.20.53:894][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.17-05.20.53:956][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Intermediate/Shaders/WorkingDirectory/10104/).
+[2021.01.17-05.20.53:956][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PruthweeshaSA/AppData/Local/Temp/UnrealShaderWorkingDir/834C09CA442DF679686A70880CB55820/'.
+[2021.01.17-05.20.53:957][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.17-05.20.53:957][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.17-05.20.53:957][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.17-05.20.54:743][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.17-05.20.54:823][  0]LogDerivedDataCache: Loaded boot cache 0.08s 76MB C:/Users/PruthweeshaSA/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.17-05.20.54:823][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PruthweeshaSA/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.01.17-05.20.54:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.17-05.20.54:823][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.17-05.20.54:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.17-05.20.54:824][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.17-05.20.54:835][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.17-05.20.54:835][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.17-05.20.54:835][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.17-05.20.54:837][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PruthweeshaSA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.17-05.20.54:837][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.17-05.20.54:837][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.17-05.20.54:890][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.17-05.20.54:891][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.17-05.20.54:919][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.01.17-05.20.55:157][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.17-05.20.55:270][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.17-05.20.55:270][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.17-05.20.55:270][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.17-05.20.55:270][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.17-05.20.55:270][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.17-05.20.55:286][  0]LogNetVersion: BlankProject0 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1746846225)
+[2021.01.17-05.20.55:766][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002304EB60580), frame # 0
+[2021.01.17-05.20.55:766][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002304E922AC0), frame # 0
+[2021.01.17-05.20.55:768][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002304EA5CA00), frame # 0
+[2021.01.17-05.20.55:925][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.136921 seconds
+[2021.01.17-05.20.55:931][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.01.17-05.20.55:931][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.01.17-05.20.55:931][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.17-05.20.56:247][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.17-05.20.56:251][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.17-05.20.56:304][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.01.17-05.20.56:304][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.01.17-05.20.56:304][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2021.01.17-05.20.56:377][  0]SourceControl: Source control is disabled
+[2021.01.17-05.20.56:377][  0]SourceControl: Source control is disabled
+[2021.01.17-05.20.56:380][  0]SourceControl: Source control is disabled
+[2021.01.17-05.20.56:383][  0]SourceControl: Source control is disabled
+[2021.01.17-05.20.56:390][  0]SourceControl: Source control is disabled
+[2021.01.17-05.20.56:619][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.17-05.20.56:641][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.17-05.20.56:641][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.17-05.20.56:689][  0]LogOcInput: OculusInput pre-init called
+[2021.01.17-05.20.56:699][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.17-05.20.56:699][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.17-05.20.56:758][  0]LogEngine: Initializing Engine...
+[2021.01.17-05.20.56:759][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.17-05.20.56:759][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.17-05.20.56:760][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.17-05.20.56:893][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.17-05.20.56:900][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.17-05.20.56:900][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023055605800), frame # 0
+[2021.01.17-05.20.56:900][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023055655580), frame # 0
+[2021.01.17-05.20.56:931][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.17-05.20.56:931][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.17-05.20.56:931][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.17-05.20.56:931][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.17-05.20.56:931][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.17-05.20.56:932][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.17-05.20.56:932][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.17-05.20.56:932][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.17-05.20.56:932][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.17-05.20.56:932][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.17-05.20.56:967][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.17-05.20.56:967][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.17-05.20.57:041][  0]LogAudioMixer: Display: Using Audio Device Headphones (Airdopes 173 Stereo)
+[2021.01.17-05.20.57:045][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.17-05.20.57:047][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.17-05.20.57:047][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.17-05.20.57:048][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.17-05.20.57:049][  0]LogInit: FAudioDevice initialized.
+[2021.01.17-05.20.57:049][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.17-05.20.58:367][  0]LogDerivedDataCache: Saved boot cache 1.32s 76MB C:/Users/PruthweeshaSA/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.17-05.20.58:376][  0]LogInit: Texture streaming: Enabled
+[2021.01.17-05.20.58:391][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.17-05.20.58:391][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.17-05.20.58:393][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.17-05.20.58:582][  0]LogInit: Transaction tracking system initialized
+[2021.01.17-05.20.58:601][  0]BlueprintLog: New page: Editor Load
+[2021.01.17-05.20.58:666][  0]LocalizationService: Localization service is disabled
+[2021.01.17-05.20.58:883][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.17-05.20.58:883][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.17-05.20.59:015][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Content/' took 0.03s
+[2021.01.17-05.20.59:424][  0]SourceControl: Source control is disabled
+[2021.01.17-05.20.59:424][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.535
+[2021.01.17-05.20.59:424][  0]Cmd: MAP LOAD FILE="C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.17-05.20.59:941][  0]LightingResults: New page: Lighting Build
+[2021.01.17-05.20.59:943][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.20.59:943][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.20.59:943][  0]MapCheck: New page: Map Check
+[2021.01.17-05.20.59:943][  0]LightingResults: New page: Lighting Build
+[2021.01.17-05.20.59:953][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023055605800), frame # 0
+[2021.01.17-05.20.59:953][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023055655580), frame # 0
+[2021.01.17-05.20.59:953][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.01.17-05.21.14:602][  0]LogBlueprint: Warning: [Compiler KwangPlayerCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.01.17-05.21.14:602][  0]LogBlueprint: Warning: [Compiler KwangPlayerCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.01.17-05.21.14:602][  0]LogBlueprint: Warning: [Compiler KwangPlayerCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2021.01.17-05.21.14:603][  0]LogBlueprint: Warning: [Compiler KwangPlayerCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.01.17-05.21.14:603][  0]LogBlueprint: Warning: [Compiler KwangPlayerCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.01.17-05.21.14:603][  0]LogBlueprint: Warning: [Compiler KwangPlayerCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2021.01.17-05.21.14:603][  0]LogBlueprint: Warning: [Compiler KwangPlayerCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2021.01.17-05.21.53:540][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.17-05.21.53:540][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002305D111000), frame # 0
+[2021.01.17-05.21.53:540][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002305D19BB00), frame # 0
+[2021.01.17-05.21.53:899][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.17-05.21.53:919][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.01.17-05.21.53:926][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.17-05.21.53:927][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2021.01.17-05.21.53:927][  0]LogFileHelpers: Loading map 'Minimal_Default' took 54.503
+[2021.01.17-05.21.53:930][  0]LogUnrealEdMisc: Total Editor Startup Time, took 63.040
+[2021.01.17-05.21.54:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.17-05.21.54:110][  0]LogCollectionManager: Loaded 0 collections in 0.001910 seconds
+[2021.01.17-05.21.54:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Collections/' took 0.00s
+[2021.01.17-05.21.54:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Content/Developers/PruthweeshaSA/Collections/' took 0.00s
+[2021.01.17-05.21.54:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Content/Collections/' took 0.00s
+[2021.01.17-05.21.54:129][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 3427 classes and 821 folders.
+[2021.01.17-05.21.54:134][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.17-05.22.03:253][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.01.17-05.22.03:457][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.01.17-05.22.03:836][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0010 seconds. Added 2 classes and 3 folders.
+[2021.01.17-05.22.03:949][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.17-05.22.03:955][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.17-05.22.04:269][  0]LogSlate: Took 0.310508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.17-05.22.04:795][  0]LogRenderer: Reallocating scene render targets to support 1336x636 Format 10 NumSamples 1 (Frame:1).
+[2021.01.17-05.22.05:725][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.01.17-05.22.05:725][  0]LogLoad: (Engine Initialization) Total time: 74.84 seconds
+[2021.01.17-05.22.05:725][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.17-05.22.05:792][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.17-05.22.06:069][  0]LogRenderer: Reallocating scene render targets to support 1336x648 Format 10 NumSamples 1 (Frame:2).
+[2021.01.17-05.22.06:070][  0]LogSlate: Took 0.075330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.17-05.22.06:713][  1]LogAssetRegistry: Asset discovery search completed in 71.7941 seconds
+[2021.01.17-05.22.06:718][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.01.17-05.24.17:741][164]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.17-05.24.17:765][164]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/Kwang_GDC.Kwang_GDC
+[2021.01.17-05.24.17:912][164]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.01.17-05.24.28:065][164]LogSlate: Window 'Message' being destroyed
+[2021.01.17-05.24.28:070][164]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.01.17-05.24.28:336][164]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleLeft.Jog_Fwd_CircleLeft
+[2021.01.17-05.24.28:337][164]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleRight.Jog_Fwd_CircleRight
+[2021.01.17-05.24.29:641][164]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.24.29:642][164]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2021.01.17-05.24.30:613][164]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_B_Slow.PrimaryAttack_B_Slow
+[2021.01.17-05.24.30:613][164]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_D_Slow.PrimaryAttack_D_Slow
+[2021.01.17-05.24.30:679][164]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2021.01.17-05.24.30:758][164]LogRenderer: Reallocating scene render targets to support 1336x884 Format 10 NumSamples 1 (Frame:1).
+[2021.01.17-05.24.30:770][165]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart.LevelStart
+[2021.01.17-05.24.30:771][165]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_A_Slow.PrimaryAttack_A_Slow
+[2021.01.17-05.24.32:251][168]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Uphill.Jog_Fwd_Uphill
+[2021.01.17-05.24.35:893][188]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Recovery_Additive.Jump_Recovery_Additive
+[2021.01.17-05.24.35:893][188]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Land.Jump_Land
+[2021.01.17-05.24.36:307][190]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Apex.Jump_Apex
+[2021.01.17-05.24.36:308][190]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop
+[2021.01.17-05.24.37:977][193]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Idle.Idle
+[2021.01.17-05.24.37:977][193]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Start.Jog_Fwd_Start
+[2021.01.17-05.24.39:030][195]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LD.Idle_AO_LD
+[2021.01.17-05.24.39:030][195]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RU.Idle_AO_RU
+[2021.01.17-05.24.39:679][195]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_Catch.Ability_Q_Catch
+[2021.01.17-05.24.39:679][195]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RD.Idle_AO_RD
+[2021.01.17-05.24.41:585][197]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LC.Idle_AO_LC
+[2021.01.17-05.24.41:585][197]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LU.Idle_AO_LU
+[2021.01.17-05.24.41:643][198]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CC.Idle_AO_CC
+[2021.01.17-05.24.41:643][198]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CD.Idle_AO_CD
+[2021.01.17-05.24.41:716][199]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CU.Idle_AO_CU
+[2021.01.17-05.24.41:716][199]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_C_Slow.PrimaryAttack_C_Slow
+[2021.01.17-05.24.41:945][201]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd.Jog_Fwd
+[2021.01.17-05.24.42:031][202]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Start.Jump_Start
+[2021.01.17-05.24.42:148][203]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RC.Idle_AO_RC
+[2021.01.17-05.24.42:148][203]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Downhill.Jog_Fwd_Downhill
+[2021.01.17-05.32.06:259][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.01.17-05.32.06:271][347]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.073
+[2021.01.17-05.32.06:360][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Idle] ([1] browsable assets)...
+[2021.01.17-05.32.06:469][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Idle.Idle]
+[2021.01.17-05.32.06:469][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Idle]
+[2021.01.17-05.32.08:342][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_Auto1D6F96A854D5EAABF43B89CA6D13D1A30.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Idle_Auto1.uasset'
+[2021.01.17-05.32.08:475][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/Kwang_Skeleton] ([1] browsable assets)...
+[2021.01.17-05.32.08:476][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/Kwang_Skeleton]
+[2021.01.17-05.32.08:557][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Kwang_Skeleton_Auto1EC755EC0457598FDAE024885819D566F.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/Kwang_Skeleton_Auto1.uasset'
+[2021.01.17-05.32.08:596][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd] ([1] browsable assets)...
+[2021.01.17-05.32.08:668][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd.Jog_Fwd]
+[2021.01.17-05.32.08:668][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd]
+[2021.01.17-05.32.08:744][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jog_Fwd_Auto16436C2F54FC7DE4C9417D2A1D3968424.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Auto1.uasset'
+[2021.01.17-05.32.08:786][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO] ([1] browsable assets)...
+[2021.01.17-05.32.08:841][347]OBJ SavePackage:     Rendered thumbnail for [AimOffsetBlendSpace /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO.Idle_AO]
+[2021.01.17-05.32.08:841][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO]
+[2021.01.17-05.32.08:944][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_Auto18C67323C45D9255526FC739ADFB64DF1.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_Auto1.uasset'
+[2021.01.17-05.32.08:959][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CC] ([1] browsable assets)...
+[2021.01.17-05.32.09:012][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CC.Idle_AO_CC]
+[2021.01.17-05.32.09:012][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CC]
+[2021.01.17-05.32.09:191][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_CC_Auto1D3938A7A45060E8ECE4AF1A209F079B3.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CC_Auto1.uasset'
+[2021.01.17-05.32.09:200][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CD] ([1] browsable assets)...
+[2021.01.17-05.32.09:258][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CD.Idle_AO_CD]
+[2021.01.17-05.32.09:258][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CD]
+[2021.01.17-05.32.09:339][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_CD_Auto1ED86FD964E705E52A5111082307EF5BA.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CD_Auto1.uasset'
+[2021.01.17-05.32.09:342][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CU] ([1] browsable assets)...
+[2021.01.17-05.32.09:405][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CU.Idle_AO_CU]
+[2021.01.17-05.32.09:405][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CU]
+[2021.01.17-05.32.09:497][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_CU_Auto1564E1BEE4DEBE6ACE199B8BF863EE269.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_CU_Auto1.uasset'
+[2021.01.17-05.32.09:501][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LC] ([1] browsable assets)...
+[2021.01.17-05.32.09:558][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LC.Idle_AO_LC]
+[2021.01.17-05.32.09:558][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LC]
+[2021.01.17-05.32.09:640][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_LC_Auto196E6ADF0460DCB8393DC939FBC2DD068.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LC_Auto1.uasset'
+[2021.01.17-05.32.09:642][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LD] ([1] browsable assets)...
+[2021.01.17-05.32.09:697][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LD.Idle_AO_LD]
+[2021.01.17-05.32.09:697][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LD]
+[2021.01.17-05.32.09:792][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_LD_Auto10EEF2B3C4C75A6CEB3F6ABBDED307272.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LD_Auto1.uasset'
+[2021.01.17-05.32.09:794][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LU] ([1] browsable assets)...
+[2021.01.17-05.32.09:854][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LU.Idle_AO_LU]
+[2021.01.17-05.32.09:854][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LU]
+[2021.01.17-05.32.09:928][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_LU_Auto15F801D5A4CFBCCD070D13C95337C3A54.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_LU_Auto1.uasset'
+[2021.01.17-05.32.09:930][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RC] ([1] browsable assets)...
+[2021.01.17-05.32.09:990][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RC.Idle_AO_RC]
+[2021.01.17-05.32.09:990][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RC]
+[2021.01.17-05.32.10:092][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_RC_Auto1A79380774B89F7D149744794C380D0F2.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RC_Auto1.uasset'
+[2021.01.17-05.32.10:125][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RD] ([1] browsable assets)...
+[2021.01.17-05.32.10:176][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RD.Idle_AO_RD]
+[2021.01.17-05.32.10:176][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RD]
+[2021.01.17-05.32.10:257][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_RD_Auto1245F31B346FE56A175B806828A072AC7.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RD_Auto1.uasset'
+[2021.01.17-05.32.10:259][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RU] ([1] browsable assets)...
+[2021.01.17-05.32.10:322][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RU.Idle_AO_RU]
+[2021.01.17-05.32.10:322][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RU]
+[2021.01.17-05.32.10:397][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Idle_AO_RU_Auto1D90B8C67428C3742FF8CDCAA39C956FA.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/AimOffsets/Idle_AO_RU_Auto1.uasset'
+[2021.01.17-05.32.10:399][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart_Montage] ([1] browsable assets)...
+[2021.01.17-05.32.10:495][347]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart_Montage.LevelStart_Montage]
+[2021.01.17-05.32.10:495][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart_Montage]
+[2021.01.17-05.32.10:608][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/LevelStart_Montage_Auto1DC194E26459300D17F7AA783AD586E32.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart_Montage_Auto1.uasset'
+[2021.01.17-05.32.10:610][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart] ([1] browsable assets)...
+[2021.01.17-05.32.10:668][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart.LevelStart]
+[2021.01.17-05.32.10:668][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart]
+[2021.01.17-05.32.10:793][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/LevelStart_Auto11EEFA0D64825D4FAF61402A73ED07B4E.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart_Auto1.uasset'
+[2021.01.17-05.32.10:840][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Start] ([1] browsable assets)...
+[2021.01.17-05.32.10:892][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Start.Jog_Fwd_Start]
+[2021.01.17-05.32.10:892][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Start]
+[2021.01.17-05.32.10:976][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jog_Fwd_Start_Auto177F1530E4007739D7B73CFB02B2146D3.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Start_Auto1.uasset'
+[2021.01.17-05.32.10:990][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Stop] ([1] browsable assets)...
+[2021.01.17-05.32.11:042][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop]
+[2021.01.17-05.32.11:042][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Stop]
+[2021.01.17-05.32.11:131][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jog_Fwd_Stop_Auto1FB63562D4EB363B3AFC7A08DCF7CE25F.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Stop_Auto1.uasset'
+[2021.01.17-05.32.11:134][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Apex] ([1] browsable assets)...
+[2021.01.17-05.32.11:191][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Apex.Jump_Apex]
+[2021.01.17-05.32.11:191][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Apex]
+[2021.01.17-05.32.11:275][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jump_Apex_Auto126EBED0B424E03B3453F3498E6B64A97.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Apex_Auto1.uasset'
+[2021.01.17-05.32.11:277][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Land] ([1] browsable assets)...
+[2021.01.17-05.32.11:334][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Land.Jump_Land]
+[2021.01.17-05.32.11:334][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Land]
+[2021.01.17-05.32.11:424][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jump_Land_Auto135110C804085467983E003A0367AF44D.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Land_Auto1.uasset'
+[2021.01.17-05.32.11:426][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Recovery_Additive] ([1] browsable assets)...
+[2021.01.17-05.32.11:484][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Recovery_Additive.Jump_Recovery_Additive]
+[2021.01.17-05.32.11:484][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Recovery_Additive]
+[2021.01.17-05.32.11:566][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jump_Recovery_Additive_Auto1E6CC300A4FD623E8D249E8957D0F8C3D.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Recovery_Additive_Auto1.uasset'
+[2021.01.17-05.32.11:569][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Start] ([1] browsable assets)...
+[2021.01.17-05.32.11:625][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Start.Jump_Start]
+[2021.01.17-05.32.11:625][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Start]
+[2021.01.17-05.32.11:700][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jump_Start_Auto137642E574F58DB32526B658D0C74A74B.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jump_Start_Auto1.uasset'
+[2021.01.17-05.32.11:722][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Blendspaces/JogFwdSlopeLean] ([1] browsable assets)...
+[2021.01.17-05.32.11:777][347]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Blendspaces/JogFwdSlopeLean.JogFwdSlopeLean]
+[2021.01.17-05.32.11:777][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Blendspaces/JogFwdSlopeLean]
+[2021.01.17-05.32.11:864][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/JogFwdSlopeLean_Auto1A192725D4003DE3E8963A6B6C84339C8.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Blendspaces/JogFwdSlopeLean_Auto1.uasset'
+[2021.01.17-05.32.11:891][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleLeft] ([1] browsable assets)...
+[2021.01.17-05.32.11:947][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleLeft.Jog_Fwd_CircleLeft]
+[2021.01.17-05.32.11:947][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleLeft]
+[2021.01.17-05.32.12:044][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jog_Fwd_CircleLeft_Auto1898E77CD4F002E7EE9EDA6AAC3D24E80.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleLeft_Auto1.uasset'
+[2021.01.17-05.32.12:046][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleRight] ([1] browsable assets)...
+[2021.01.17-05.32.12:105][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleRight.Jog_Fwd_CircleRight]
+[2021.01.17-05.32.12:105][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleRight]
+[2021.01.17-05.32.12:191][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jog_Fwd_CircleRight_Auto1C7C59E1249935A2D5EC7058C988B2262.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_CircleRight_Auto1.uasset'
+[2021.01.17-05.32.12:194][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Downhill] ([1] browsable assets)...
+[2021.01.17-05.32.12:250][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Downhill.Jog_Fwd_Downhill]
+[2021.01.17-05.32.12:250][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Downhill]
+[2021.01.17-05.32.12:341][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jog_Fwd_Downhill_Auto1F4C055024DD21B9F9EE9A6A327C69B66.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Downhill_Auto1.uasset'
+[2021.01.17-05.32.12:343][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Uphill] ([1] browsable assets)...
+[2021.01.17-05.32.12:396][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Uphill.Jog_Fwd_Uphill]
+[2021.01.17-05.32.12:396][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Uphill]
+[2021.01.17-05.32.12:498][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Jog_Fwd_Uphill_Auto1C369225D4FCB256FB9EADC9C0ACC8537.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Jog_Fwd_Uphill_Auto1.uasset'
+[2021.01.17-05.32.12:499][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_A_Slow_Montage] ([1] browsable assets)...
+[2021.01.17-05.32.12:559][347]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_A_Slow_Montage.PrimaryAttack_A_Slow_Montage]
+[2021.01.17-05.32.12:559][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_A_Slow_Montage]
+[2021.01.17-05.32.12:633][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/PrimaryAttack_A_Slow_Montage_AutFB1D27F84AB5A095B7DAC2ADF39AD6B0.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_A_Slow_Montage_Auto1.uasset'
+[2021.01.17-05.32.12:634][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_A_Slow] ([1] browsable assets)...
+[2021.01.17-05.32.12:692][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_A_Slow.PrimaryAttack_A_Slow]
+[2021.01.17-05.32.12:692][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_A_Slow]
+[2021.01.17-05.32.12:767][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/PrimaryAttack_A_Slow_Auto138855B5744AB52D719E69C9C7B651688.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_A_Slow_Auto1.uasset'
+[2021.01.17-05.32.12:770][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_B_Slow_Montage] ([1] browsable assets)...
+[2021.01.17-05.32.12:829][347]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_B_Slow_Montage.PrimaryAttack_B_Slow_Montage]
+[2021.01.17-05.32.12:829][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_B_Slow_Montage]
+[2021.01.17-05.32.12:944][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/PrimaryAttack_B_Slow_Montage_Aut056BB966425EE8E31E2F6C9915E8F7C8.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_B_Slow_Montage_Auto1.uasset'
+[2021.01.17-05.32.12:945][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_B_Slow] ([1] browsable assets)...
+[2021.01.17-05.32.13:005][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_B_Slow.PrimaryAttack_B_Slow]
+[2021.01.17-05.32.13:005][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_B_Slow]
+[2021.01.17-05.32.13:093][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/PrimaryAttack_B_Slow_Auto10E7B8BB24DCB6921B6027EA1FC3F94F1.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_B_Slow_Auto1.uasset'
+[2021.01.17-05.32.13:116][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_C_Slow_Montage] ([1] browsable assets)...
+[2021.01.17-05.32.13:178][347]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_C_Slow_Montage.PrimaryAttack_C_Slow_Montage]
+[2021.01.17-05.32.13:178][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_C_Slow_Montage]
+[2021.01.17-05.32.13:328][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/PrimaryAttack_C_Slow_Montage_Aut616E73B04C9364E78B934E95D782BE73.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_C_Slow_Montage_Auto1.uasset'
+[2021.01.17-05.32.13:349][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_C_Slow] ([1] browsable assets)...
+[2021.01.17-05.32.13:410][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_C_Slow.PrimaryAttack_C_Slow]
+[2021.01.17-05.32.13:410][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_C_Slow]
+[2021.01.17-05.32.13:482][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/PrimaryAttack_C_Slow_Auto1E41B8B65462CE3BDAD3C5F866E26941D.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_C_Slow_Auto1.uasset'
+[2021.01.17-05.32.13:484][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_D_Slow_Montage] ([1] browsable assets)...
+[2021.01.17-05.32.13:544][347]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_D_Slow_Montage.PrimaryAttack_D_Slow_Montage]
+[2021.01.17-05.32.13:544][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_D_Slow_Montage]
+[2021.01.17-05.32.13:618][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/PrimaryAttack_D_Slow_Montage_AutB36DBA0B4AE0DC2272F925A47418D715.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_D_Slow_Montage_Auto1.uasset'
+[2021.01.17-05.32.13:620][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_D_Slow] ([1] browsable assets)...
+[2021.01.17-05.32.13:679][347]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_D_Slow.PrimaryAttack_D_Slow]
+[2021.01.17-05.32.13:679][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_D_Slow]
+[2021.01.17-05.32.13:784][347]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/PrimaryAttack_D_Slow_Auto1B135F6CE4950EF513B4D608DD0A76E4D.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Autosaves/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/PrimaryAttack_D_Slow_Auto1.uasset'
+[2021.01.17-05.32.13:826][347]LogFileHelpers: Auto-saving content packages took 7.555
+[2021.01.17-05.41.55:233][749]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_Jog_Right.Ability_Q_Jog_Right
+[2021.01.17-05.41.55:379][750]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_Jog_Right.Ability_Q_Jog_Right
+[2021.01.17-05.43.36:877][827]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_SwordInWorld_Pose_MSA.Ability_Q_SwordInWorld_Pose_MSA
+[2021.01.17-05.43.36:877][827]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_SwordInWorld_Pose_MSA.Ability_Q_SwordInWorld_Pose_MSA
+[2021.01.17-05.43.37:030][828]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_SwordInWorld_Pose_MSA.Ability_Q_SwordInWorld_Pose_MSA
+[2021.01.17-05.44.30:482][512]LogSlate: Window 'Kwang_GDC' being destroyed
+[2021.01.17-05.44.30:493][512]LogSlate: Window 'Kwang_GDC' being destroyed
+[2021.01.17-05.44.30:710][512]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.44.30:710][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.45.35:297][217]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.17-05.45.35:486][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.17-05.45.35:504][217]PIE: New page: PIE session: Minimal_Default (17-Jan-2021, 4:45:35 pm)
+[2021.01.17-05.45.35:584][217]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.17-05.45.35:630][217]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.17-05.45.35:655][217]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.01.17-05.45.35:815][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160007s)
+[2021.01.17-05.45.35:830][217]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.17-05.45.35:830][217]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000230068BD000), frame # 22217
+[2021.01.17-05.45.35:830][217]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002307F80BD80), frame # 22217
+[2021.01.17-05.45.35:831][217]LogPlayLevel: PIE: World Init took: (0.015005s)
+[2021.01.17-05.45.35:831][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.176316s)
+[2021.01.17-05.45.35:961][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.01.17-05.45.35:987][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.17-05.45.35:988][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.17-05.45.35:988][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.17-05.45.35:988][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.17-05.45.35:988][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.17-05.45.35:988][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.17-05.45.35:988][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.17-05.45.35:988][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.17-05.45.35:989][217]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.17-05.45.35:989][217]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.17-05.45.36:016][217]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.17-05.45.36:017][217]LogAudioMixer: Display: 1: FrontRight
+[2021.01.17-05.45.36:081][217]LogAudioMixer: Display: Using Audio Device Headphones (Airdopes 173 Stereo)
+[2021.01.17-05.45.36:081][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.17-05.45.36:082][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.17-05.45.36:082][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.17-05.45.36:082][217]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.17-05.45.36:113][217]LogInit: FAudioDevice initialized.
+[2021.01.17-05.45.36:263][217]LogLoad: Game class is 'GameModeBase'
+[2021.01.17-05.45.36:318][217]LogScript: Warning: Script Msg: Divide by zero detected: 179.999985 / 0
+Script call stack:
+	Function /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Kwang_AnimBlueprint.Kwang_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Kwang_AnimBlueprint.Kwang_AnimBlueprint_C:ExecuteUbergraph_Kwang_AnimBlueprint
+
+[2021.01.17-05.45.36:392][217]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.01.17-11.15.36
+[2021.01.17-05.45.36:720][217]LogWorld: Bringing up level for play took: 0.445803
+[2021.01.17-05.45.36:744][217]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.17-05.45.36:936][217]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.01.17-05.45.37:150][217]PIE: Server logged in
+[2021.01.17-05.45.37:173][217]PIE: Play in editor total start time 1.76 seconds.
+[2021.01.17-05.45.37:913][218]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.087018 > MaxSimulationTimeStep (0.050) for 'KwangPlayerCharacter_2', movement 'Walking'
+[2021.01.17-05.45.51:918][242]LogSlate: Window 'Message' being destroyed
+[2021.01.17-05.45.51:926][242]Message dialog closed, result: Cancel, title: Message, text: The Skeleton Kwang_Skeleton, is missing bones that SkeletalMesh kwang_indianised_final needs. They will be added now. Please save the Skeleton!
+[2021.01.17-05.45.51:926][242]LoadErrors: Error: The Skeleton  Kwang_Skeleton is missing bones that SkeletalMesh  kwang_indianised_final needs. They will be added now. Please save the Skeleton!
+[2021.01.17-05.45.52:386][242]LogSlate: Took 0.044857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.17-05.45.52:638][248]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKwang/Characters/Heroes/Kwang/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.01.17-05.45.54:846][302]LogSlate: Window 'Message Log' being destroyed
+[2021.01.17-05.45.54:857][302]LogSlate: Window 'Message Log' being destroyed
+[2021.01.17-05.46.25:486][836]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.17-05.46.25:486][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.17-05.46.25:486][836]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.01.17-05.46.25:521][836]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.46.25:562][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.46.25:692][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.17-05.46.25:715][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.46.25:920][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.17-05.46.25:956][836]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002307F80BD80), frame # 23836
+[2021.01.17-05.46.25:956][836]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000230068BD000), frame # 23836
+[2021.01.17-05.46.26:084][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.01.17-05.46.26:144][837]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.17-05.46.36:878][311]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/KwangAlbino.KwangAlbino
+[2021.01.17-05.46.36:899][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.46.53:633][795]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/Kwang_Skeleton.Kwang_Skeleton
+[2021.01.17-05.46.53:710][795]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.46.57:470][881]LogSavePackage: Moving 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Saved/Kwang_Skeleton7D3ADC5A41821218FA7A9387E2EF495A.tmp' to 'C:/Users/PruthweeshaSA/Documents/Unreal Projects/BlankProject0/Content/ParagonKwang/Characters/Heroes/Kwang/Meshes/Kwang_Skeleton.uasset'
+[2021.01.17-05.46.57:544][881]AssetCheck: New page: Asset Save: Kwang_Skeleton
+[2021.01.17-05.46.57:545][881]LogContentValidation: Display: Validating Skeleton /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/Kwang_Skeleton.Kwang_Skeleton
+[2021.01.17-05.47.08:285][176]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_Jog_Fwd_MSA.Ability_Q_Jog_Fwd_MSA
+[2021.01.17-05.47.08:286][176]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_Jog_Fwd_MSA.Ability_Q_Jog_Fwd_MSA
+[2021.01.17-05.47.08:684][177]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_Jog_Fwd_MSA.Ability_Q_Jog_Fwd_MSA
+[2021.01.17-05.47.29:007][762]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Blendspaces/JogFwdSlopeLean.JogFwdSlopeLean
+[2021.01.17-05.47.29:281][762]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.47.29:943][762]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.01.17-05.47.37:333][966]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.47.37:334][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.47.37:599][966]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.47.37:599][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.47.39:244][ 12]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.47.39:244][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.47.40:074][ 31]LogSlate: Window 'Kwang_Skeleton' being destroyed
+[2021.01.17-05.47.40:090][ 31]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.47.40:090][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.47.47:929][226]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/KwangSunrise.KwangSunrise
+[2021.01.17-05.47.47:952][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.47.51:996][287]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_Catch_MSA.Ability_Q_Catch_MSA
+[2021.01.17-05.47.51:996][287]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_Catch_MSA.Ability_Q_Catch_MSA
+[2021.01.17-05.47.52:213][288]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKwang/Characters/Heroes/Kwang/Animations/Ability_Q_Catch_MSA.Ability_Q_Catch_MSA
+[2021.01.17-05.48.23:451][251]LogSlate: Window 'KwangSunrise' being destroyed
+[2021.01.17-05.48.23:468][251]LogSlate: Window 'KwangSunrise' being destroyed
+[2021.01.17-05.48.23:468][251]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.48.23:468][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.48.50:171][554]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/KwangRosewood.KwangRosewood
+[2021.01.17-05.48.50:191][554]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.49.17:515][330]LogSlate: Window 'KwangRosewood' being destroyed
+[2021.01.17-05.49.17:531][330]LogSlate: Window 'KwangRosewood' being destroyed
+[2021.01.17-05.49.17:532][330]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.49.17:532][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.49.55:155][192]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/ImportedIndianFinal/kwang_indianised_final.kwang_indianised_final
+[2021.01.17-05.49.59:369][192]LogSlate: Window 'Message' being destroyed
+[2021.01.17-05.49.59:376][192]Message dialog closed, result: No, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.01.17-05.50.08:530][467]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/Kwang_Skeleton.Kwang_Skeleton
+[2021.01.17-05.50.08:557][467]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.50.14:728][618]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.50.14:728][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.50.26:708][988]LogSlate: Window 'kwang_indianised_final' being destroyed
+[2021.01.17-05.50.26:722][988]LogSlate: Window 'kwang_indianised_final' being destroyed
+[2021.01.17-05.50.26:723][988]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.01.17-05.50.26:723][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.17-05.50.31:495][150]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.01.17-05.51.06:554][150]LogSlate: Window 'Choose Skeleton' being destroyed
+[2021.01.17-05.51.10:131][325]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/ImportedIndianFinal/kwang_indianised_final.kwang_indianised_final
+[2021.01.17-05.51.10:143][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.51.10:248][325]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.01.17-05.51.41:596][308]LogSlate: Window 'Message' being destroyed
+[2021.01.17-05.51.41:604][308]Message dialog closed, result: Yes, title: Message, text: This action can't be undone. Would you like to continue?
+[2021.01.17-05.51.41:919][308]LogSkeletalMesh: Building Skeletal Mesh kwang_indianised_final...
+[2021.01.17-05.51.43:393][308]LogSkeletalMesh: Section 0: 9850 vertices, 20 active bones
+[2021.01.17-05.51.43:394][308]LogSkeletalMesh: Section 1: 4887 vertices, 16 active bones
+[2021.01.17-05.51.43:394][308]LogSkeletalMesh: Section 2: 2577 vertices, 12 active bones
+[2021.01.17-05.51.43:394][308]LogSkeletalMesh: Section 3: 520 vertices, 1 active bones
+[2021.01.17-05.51.43:395][308]LogSkeletalMesh: Section 4: 6674 vertices, 25 active bones
+[2021.01.17-05.51.43:395][308]LogSkeletalMesh: Section 5: 2575 vertices, 38 active bones
+[2021.01.17-05.51.43:395][308]LogSkeletalMesh: Section 6: 1196 vertices, 2 active bones
+[2021.01.17-05.51.43:395][308]LogSkeletalMesh: Section 7: 1033 vertices, 14 active bones
+[2021.01.17-05.51.43:395][308]LogSkeletalMesh: Section 8: 148 vertices, 12 active bones
+[2021.01.17-05.51.43:396][308]LogSkeletalMesh: Section 9: 5230 vertices, 3 active bones
+[2021.01.17-05.51.43:397][308]LogSkeletalMesh: Section 10: 5118 vertices, 8 active bones
+[2021.01.17-05.51.43:397][308]LogSkeletalMesh: Section 11: 5165 vertices, 29 active bones
+[2021.01.17-05.51.43:397][308]LogSkeletalMesh: Section 12: 482 vertices, 3 active bones
+[2021.01.17-05.51.43:397][308]LogSkeletalMesh: Section 13: 1282 vertices, 2 active bones
+[2021.01.17-05.51.43:397][308]LogSkeletalMesh: Section 14: 422 vertices, 11 active bones
+[2021.01.17-05.51.43:398][308]LogSkeletalMesh: Section 15: 3456 vertices, 1 active bones
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 0: Material=0, 17412 triangles
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 1: Material=1, 7935 triangles
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 2: Material=2, 4205 triangles
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 3: Material=3, 910 triangles
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 4: Material=4, 11884 triangles
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 5: Material=5, 4466 triangles
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 6: Material=6, 2144 triangles
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 7: Material=7, 938 triangles
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 8: Material=8, 226 triangles
+[2021.01.17-05.51.43:404][308]LogSkeletalMesh: Section 9: Material=9, 6268 triangles
+[2021.01.17-05.51.43:405][308]LogSkeletalMesh: Section 10: Material=10, 7050 triangles
+[2021.01.17-05.51.43:405][308]LogSkeletalMesh: Section 11: Material=11, 9821 triangles
+[2021.01.17-05.51.43:405][308]LogSkeletalMesh: Section 12: Material=12, 818 triangles
+[2021.01.17-05.51.43:405][308]LogSkeletalMesh: Section 13: Material=13, 2258 triangles
+[2021.01.17-05.51.43:405][308]LogSkeletalMesh: Section 14: Material=14, 636 triangles
+[2021.01.17-05.51.43:405][308]LogSkeletalMesh: Section 15: Material=15, 5306 triangles
+[2021.01.17-05.51.43:767][308]LogSkeletalMesh: Built Skeletal Mesh [1.85s] /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/ImportedIndianFinal/kwang_indianised_final.kwang_indianised_final
+[2021.01.17-05.51.50:724][538]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/Kwang_Skeleton1.Kwang_Skeleton1
+[2021.01.17-05.51.50:850][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.51.50:908][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.01.17-05.52.09:010][967]LogSlate: Window 'Message' being destroyed
+[2021.01.17-05.52.09:016][967]Message dialog closed, result: Yes, title: Message, text: This action can't be undone. Would you like to continue?
+[2021.01.17-05.52.09:024][967]LogSkeletalMesh: Building Skeletal Mesh kwang_indianised_final...
+[2021.01.17-05.52.10:335][967]LogSkeletalMesh: Section 0: 9850 vertices, 20 active bones
+[2021.01.17-05.52.10:335][967]LogSkeletalMesh: Section 1: 4887 vertices, 16 active bones
+[2021.01.17-05.52.10:336][967]LogSkeletalMesh: Section 2: 2577 vertices, 12 active bones
+[2021.01.17-05.52.10:336][967]LogSkeletalMesh: Section 3: 520 vertices, 1 active bones
+[2021.01.17-05.52.10:338][967]LogSkeletalMesh: Section 4: 6674 vertices, 25 active bones
+[2021.01.17-05.52.10:339][967]LogSkeletalMesh: Section 5: 2575 vertices, 38 active bones
+[2021.01.17-05.52.10:339][967]LogSkeletalMesh: Section 6: 1196 vertices, 2 active bones
+[2021.01.17-05.52.10:340][967]LogSkeletalMesh: Section 7: 1033 vertices, 14 active bones
+[2021.01.17-05.52.10:340][967]LogSkeletalMesh: Section 8: 148 vertices, 12 active bones
+[2021.01.17-05.52.10:341][967]LogSkeletalMesh: Section 9: 5230 vertices, 3 active bones
+[2021.01.17-05.52.10:342][967]LogSkeletalMesh: Section 10: 5118 vertices, 8 active bones
+[2021.01.17-05.52.10:343][967]LogSkeletalMesh: Section 11: 5165 vertices, 29 active bones
+[2021.01.17-05.52.10:343][967]LogSkeletalMesh: Section 12: 482 vertices, 3 active bones
+[2021.01.17-05.52.10:343][967]LogSkeletalMesh: Section 13: 1282 vertices, 2 active bones
+[2021.01.17-05.52.10:343][967]LogSkeletalMesh: Section 14: 422 vertices, 11 active bones
+[2021.01.17-05.52.10:344][967]LogSkeletalMesh: Section 15: 3456 vertices, 1 active bones
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 0: Material=0, 17412 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 1: Material=1, 7935 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 2: Material=2, 4205 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 3: Material=3, 910 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 4: Material=4, 11884 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 5: Material=5, 4466 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 6: Material=6, 2144 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 7: Material=7, 938 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 8: Material=8, 226 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 9: Material=9, 6268 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 10: Material=10, 7050 triangles
+[2021.01.17-05.52.10:351][967]LogSkeletalMesh: Section 11: Material=11, 9821 triangles
+[2021.01.17-05.52.10:352][967]LogSkeletalMesh: Section 12: Material=12, 818 triangles
+[2021.01.17-05.52.10:352][967]LogSkeletalMesh: Section 13: Material=13, 2258 triangles
+[2021.01.17-05.52.10:352][967]LogSkeletalMesh: Section 14: Material=14, 636 triangles
+[2021.01.17-05.52.10:352][967]LogSkeletalMesh: Section 15: Material=15, 5306 triangles
+[2021.01.17-05.52.10:630][967]LogSkeletalMesh: Built Skeletal Mesh [1.61s] /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/ImportedIndianFinal/kwang_indianised_final.kwang_indianised_final
+[2021.01.17-05.52.28:604][510]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.17-05.52.59:537][405]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/ParagonKwang/Characters/Heroes/Kwang/Meshes/ImportedIndianFinal/kwang_indianised_final_PhysicsAsset.kwang_indianised_final_PhysicsAsset
+[2021.01.17-05.52.59:853][405]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2021.01.17-05.52.59:931][405]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.17-05.52.59:932][405]LogWindows: Windows GetLastError: The operation completed successfully. (0)
